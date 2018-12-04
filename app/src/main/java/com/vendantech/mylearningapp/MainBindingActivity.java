@@ -14,7 +14,7 @@ public class MainBindingActivity extends AppCompatActivity implements Connectivi
 
 
     private MainActivityBinding binding;
-    private String callerId;
+   
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
